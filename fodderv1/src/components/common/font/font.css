@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'wryh';
+  src: url('MicrosoftYaHeiGB.ttf') format('truetype');
+  font-weight:normal ;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'wryhBold';
+  src: url('YaGeiBold.ttf') format('truetype');
+  font-weight:normal ;
+  font-style: normal;
+}
